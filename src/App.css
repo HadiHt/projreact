@@ -1,0 +1,10 @@
+.parentApp{
+    display: flex;
+    flex-direction: column;
+}
+.navbarApp{
+    flex: 1;
+}
+.pagesApp{
+    flex: 5;
+}
